@@ -10,7 +10,7 @@ forums to coordinate plans.
 [Check out clump in action!](https://drive.google.com/file/d/1tjqhP267JTkPPPoezdx8gc6kjcRQIp0T/view?usp=sharing)
 
 ## Built With
-Python, Flask, SQL, JavaScript
+Flask, Python, SQL, JavaScript
 
 ## Features
 - User authentication (Wellesley email required, passwords hashed with bcrypt, 
