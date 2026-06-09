@@ -1,7 +1,7 @@
 # clump
 
 Beta version of clump, a full-stack calendar Flask web app for the Wellesley College 
-community. Our project aims to provide a centralized platform where users can form groups (or clumps), 
+community. This project aims to provide a centralized platform where users can form groups (or clumps), 
 whether for convenience, companionship, or saving money. Users can access multiple categorical calendars, 
 create and view events for others to join, and establish lines of communication under event-specific chat 
 forums to coordinate plans. 
