@@ -33,4 +33,4 @@ Flask, Python, SQL, JavaScript
 - `profile_uploads/` — stores user-uploaded profile photos
 
 ## Notes
-Built as a collaborative course project (CS304, Fall 2025). 
+Built as a collaborative course project (CS304, Fall 2025) with Bessie Li and Samiksha Singh. 
